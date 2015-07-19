@@ -9,7 +9,7 @@ body {
 
 section > div { padding:2px;}
 header, nav, section { background: #eee; text-align:center; }
-footer { background: #eee; text-align:center; }
+footer { background: #eee; text-aling:center; }
 nav span {  margin: 0px 10px 0px 0px;}
 a {
   color: #00B7FF;
